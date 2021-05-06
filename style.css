@@ -111,10 +111,10 @@ body {
 
 }
 .app-download:nth-child(1) {
-    background-image: url('./button-apple.png');
+    background-image: url('./png/button-apple.png');
 }
 .app-download:nth-child(2) {
-    background-image: url('./button-google.png');
+    background-image: url('./png/button-google.png');
 }
 
 @media (max-width:1024px) {
